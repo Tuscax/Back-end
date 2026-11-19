@@ -7,10 +7,11 @@ const { FOREIGNKEYS } = require("sequelize/lib/query-types");
 Product.hasMany(Imagens,{
     FOREIGNKEYS: "product_id"
 })
-
 Product.hasMany(ProductO,{
     foreignKey:"product_id"
 })
+Product.belongsToMany(Category,{through: 'Product_category'})
+Category.belongsToMany(Product,{through: 'Product_category'})
 
 // Product.Imagens = Product.belongsTo(Imagens)
 module.exports = {
