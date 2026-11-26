@@ -1,0 +1,202 @@
+[
+  {
+    "enabled": true,
+    "name": "Smartphone Samsung",
+    "slug": "smartphone-samsung",
+    "useInMenu": true,
+    "stock": 15,
+    "description": "Smartphone Samsung Galaxy",
+    "discount": 10.00,
+    "price": 1899.90
+  },
+  {
+    "enabled": true,
+    "name": "Notebook Dell",
+    "slug": "notebook-dell",
+    "useInMenu": false,
+    "stock": 8,
+    "description": "Notebook Dell Inspiron",
+    "discount": 5.50,
+    "price": 3499.90
+  },
+  {
+    "enabled": false,
+    "name": "Mouse Logitech",
+    "slug": "mouse-logitech",
+    "useInMenu": true,
+    "stock": 42,
+    "description": "Mouse sem fio Logitech",
+    "discount": 0,
+    "price": 129.90
+  },
+  {
+    "enabled": true,
+    "name": "Teclado Mecânico",
+    "slug": "teclado-mecanico",
+    "useInMenu": true,
+    "stock": 23,
+    "description": "Teclado mecânico RGB",
+    "discount": 15.00,
+    "price": 289.90
+  },
+  {
+    "enabled": true,
+    "name": "Monitor LG",
+    "slug": "monitor-lg",
+    "useInMenu": false,
+    "stock": 12,
+    "description": "Monitor LG Full HD 24",
+    "discount": 8.75,
+    "price": 899.90
+  },
+  {
+    "enabled": false,
+    "name": "Fone Bluetooth",
+    "slug": "fone-bluetooth",
+    "useInMenu": true,
+    "stock": 30,
+    "description": "Fone de ouvido sem fio",
+    "discount": 12.50,
+    "price": 199.90
+  },
+  {
+    "enabled": true,
+    "name": "Smart TV Philips",
+    "slug": "smart-tv-philips",
+    "useInMenu": true,
+    "stock": 6,
+    "description": "Smart TV Philips 50 polegadas",
+    "discount": 7.00,
+    "price": 2299.90
+  },
+  {
+    "enabled": true,
+    "name": "Tablet Lenovo",
+    "slug": "tablet-lenovo",
+    "useInMenu": false,
+    "stock": 18,
+    "description": "Tablet Lenovo 10 polegadas",
+    "discount": 3.50,
+    "price": 1199.90
+  },
+  {
+    "enabled": true,
+    "name": "Cadeira Gamer",
+    "slug": "cadeira-gamer",
+    "useInMenu": true,
+    "stock": 9,
+    "description": "Cadeira gamer ergonômica",
+    "discount": 20.00,
+    "price": 1099.90
+  },
+  {
+    "enabled": false,
+    "name": "Webcam HD",
+    "slug": "webcam-hd",
+    "useInMenu": false,
+    "stock": 27,
+    "description": "Webcam com resolução Full HD",
+    "discount": 0,
+    "price": 159.90
+  },
+  {
+    "enabled": true,
+    "name": "Impressora Epson",
+    "slug": "impressora-epson",
+    "useInMenu": true,
+    "stock": 11,
+    "description": "Impressora multifuncional Epson",
+    "discount": 9.90,
+    "price": 749.90
+  },
+  {
+    "enabled": true,
+    "name": "HD Externo",
+    "slug": "hd-externo",
+    "useInMenu": false,
+    "stock": 35,
+    "description": "HD externo com 1TB",
+    "discount": 4.00,
+    "price": 329.90
+  },
+  {
+    "enabled": false,
+    "name": "SSD Kingston",
+    "slug": "ssd-kingston",
+    "useInMenu": true,
+    "stock": 20,
+    "description": "SSD Kingston 480GB",
+    "discount": 11.25,
+    "price": 259.90
+  },
+  {
+    "enabled": true,
+    "name": "Roteador TP-Link",
+    "slug": "roteador-tp-link",
+    "useInMenu": true,
+    "stock": 14,
+    "description": "Roteador Wi-Fi dual band",
+    "discount": 6.50,
+    "price": 219.90
+  },
+  {
+    "enabled": true,
+    "name": "Microfone USB",
+    "slug": "microfone-usb",
+    "useInMenu": false,
+    "stock": 17,
+    "description": "Microfone condensador USB",
+    "discount": 13.00,
+    "price": 399.90
+  },
+  {
+    "enabled": false,
+    "name": "Caixa de Som JBL",
+    "slug": "caixa-de-som-jbl",
+    "useInMenu": true,
+    "stock": 25,
+    "description": "Caixa de som portátil Bluetooth",
+    "discount": 5.00,
+    "price": 449.90
+  },
+  {
+    "enabled": true,
+    "name": "Smartwatch Xiaomi",
+    "slug": "smartwatch-xiaomi",
+    "useInMenu": true,
+    "stock": 19,
+    "description": "Relógio inteligente Xiaomi",
+    "discount": 14.50,
+    "price": 599.90
+  },
+  {
+    "enabled": true,
+    "name": "Controle Xbox",
+    "slug": "controle-xbox",
+    "useInMenu": false,
+    "stock": 13,
+    "description": "Controle sem fio Xbox",
+    "discount": 2.75,
+    "price": 379.90
+  },
+  {
+    "enabled": false,
+    "name": "Carregador USB-C",
+    "slug": "carregador-usb-c",
+    "useInMenu": true,
+    "stock": 50,
+    "description": "Carregador rápido USB-C",
+    "discount": 0,
+    "price": 89.90
+  },
+  {
+    "enabled": true,
+    "name": "Câmera Canon",
+    "slug": "camera-canon",
+    "useInMenu": false,
+    "stock": 5,
+    "description": "Câmera digital Canon EOS",
+    "discount": 18.00,
+    "price": 4299.90
+  }
+]
